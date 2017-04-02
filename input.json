@@ -1,0 +1,13 @@
+{
+  
+	"start-date": "30/10/2016",
+  
+	"end-date": "27/01/2017",
+  
+	"speed-threshold": 10,
+  
+	"diameter-threshold": 200,
+  
+	"mis	s-threshold": 0.3
+
+}

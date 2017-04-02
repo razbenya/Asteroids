@@ -1,0 +1,31 @@
+######################## Worker 1 #############################
+
+Parse 0 Asteroids - see readme for explanation.
+
+
+######################## Worker 2 #############################
+
+Parse 331 Asteroids in total.
+43 were dangerouse.
+284 were totaly safe
+
+
+######################## Worker 3 #############################
+
+Parse 9 Asteroids in total.
+3 were dangerouse.
+5 were totaly safe.
+
+######################## Worker 4 #############################
+
+Parse 332 Asteroids in total.
+33 were dangerouse.
+296 were totaly safe.
+
+######################## Summary ##############################
+
+672 Asteroids in total.
+79 are dangerouse.
+585 are totaly safe.
+
+###############################################################
