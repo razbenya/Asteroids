@@ -1,8 +1,7 @@
 ####################### ReadMe File #####################################
 
-Name: Raz Ben-Yaish            Id: 305438053
-Name: Shahar Davidovich	       Id: 203663976 
-
+Name: Raz Ben-Yaish 
+Name: Shahar Davidovich	
 ######################## running instructions ###########################
 
 the credentials file(of Shahar) should be in the same folider as the main program and named: prop.properties
